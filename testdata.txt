@@ -1,0 +1,117 @@
+ vnbioou8uytvdbqqe`faa5a4alkjgdwa	d4r52XW RW N BBBBBBBBBBBBBBBBBBBBBBBBBBBNHNN
+
+
+  MN NMN           BBBBBBB K9G9GKMFAa06r6r976kr8-
+
+
+
+eyJhc3NldHMiOlt7ImlkIjoiOTZCMC0yMEFFLTREMTktOEQxMyIsInR5cGUiOiJhY3RpdmF0aW9uQ29kZSJ9XX0=
+
+
+
+https://oyz8zz3r9a.execute-api.us-west-2.amazonaws.com/v1/asset/customer?query=eyJhc3NldHMiOlt7ImlkIjoiOTZCMC0yMEFFLTREMTktOEQxMyIsInR5cGUiOiJhY3RpdmF0aW9uQ29kZSJ9XX0=
+
+o/p
+
+{
+  "assets": [
+    {
+      "success": "true",
+      "companyName": "Deutsche Telekom AG",
+      "id": "96B0-20AE-4D19-8D13",
+      "oracleCustomerId": "6669",
+      "ownerEmail": ""
+    }
+  ],
+  "success": "true"
+}
+
+
+https://oyz8zz3r9a.execute-api.us-west-2.amazonaws.com/v1/asset/customer?query=eyJhc3NldHMiOlt7ImlkIjoiNjNBQi01RjkwLTUzQTctMkY0NyIsInR5cGUiOiJhY3RpdmF0aW9uQ29kZSJ9XX0=
+
+
+{
+  "assets": [
+    {
+      "success": "true",
+      "companyName": "Deutsche Telekom AG",
+      "id": "63AB-5F90-53A7-2F47",
+      "oracleCustomerId": "6669",
+      "ownerEmail": ""
+    }
+  ],
+  "success": "true"
+}
+
+eyJhc3NldHMiOlt7ImlkIjoiMjM1RS1BMTVGLUJCMDUtRkUyNCIsInR5cGUiOiJhY3RpdmF0aW9uQ29kZSJ9XX0=
+
+https://oyz8zz3r9a.execute-api.us-west-2.amazonaws.com/v1/asset/customer?query=eyJhc3NldHMiOlt7ImlkIjoiMjM1RS1BMTVGLUJCMDUtRkUyNCIsInR5cGUiOiJhY3RpdmF0aW9uQ29kZSJ9XX0=
+
+
+{
+  "assets": [
+    {
+      "success": "true",
+      "companyName": "Huawei Technologies Co Ltd",
+      "id": "235E-A15F-BB05-FE24",
+      "oracleCustomerId": "1380",
+      "ownerEmail": ""
+    }
+  ],
+  "success": "true"
+}
+
+
+
+eyJhc3NldHMiOlt7ImlkIjoiNDEwOC0xQTVELTRCNzYtOEY5MSIsInR5cGUiOiJhY3RpdmF0aW9uQ29kZSJ9XX0=
+
+https://oyz8zz3r9a.execute-api.us-west-2.amazonaws.com/v1/asset/customer?query=eyJhc3NldHMiOlt7ImlkIjoiNDEwOC0xQTVELTRCNzYtOEY5MSIsInR5cGUiOiJhY3RpdmF0aW9uQ29kZSJ9XX0=
+
+
+{
+  "assets": [
+    {
+      "success": "true",
+      "companyName": "Keysight",
+      "id": "4108-1A5D-4B76-8F91",
+      "oracleCustomerId": "",
+      "ownerEmail": ""
+    }
+  ],
+  "success": "true"
+}
+
+
+
+eyJhc3NldHMiOlt7ImlkIjoiNjNBQi01RjkwLTUzQTctMkY0NyIsInR5cGUiOiJhY3RpdmF0aW9uQ29kZSJ9XX0=
+
+https://oyz8zz3r9a.execute-api.us-west-2.amazonaws.com/v1/asset/customer?query=eyJhc3NldHMiOlt7ImlkIjoiNjNBQi01RjkwLTUzQTctMkY0NyIsInR5cGUiOiJhY3RpdmF0aW9uQ29kZSJ9XX0=
+
+{
+  "assets": [
+    {
+      "success": "true",
+      "companyName": "Deutsche Telekom AG",
+      "id": "63AB-5F90-53A7-2F47",
+      "oracleCustomerId": "6669",
+      "ownerEmail": ""
+    }
+  ],
+  "success": "true"
+}
+
+
+https://oyz8zz3r9a.execute-api.us-west-2.amazonaws.com/v1/asset/customer?query=eyJhc3NldHMiOlt7ImlkIjoiOTQ3My05RkVBLUVBQjgtQTY5OCIsInR5cGUiOiJhY3RpdmF0aW9uQ29kZSJ9XX0=
+
+{
+  "assets": [
+    {
+      "success": "true",
+      "companyName": "TEST",
+      "id": "9473-9FEA-EAB8-A698",
+      "oracleCustomerId": "",
+      "ownerEmail": ""
+    }
+  ],
+  "success": "true"
+}
